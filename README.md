@@ -2,9 +2,6 @@
 
 # Walmart Sales Forecasting
 
-## Context:
-Kaggle competition sponsored by Walmart.  Competition goal is to forecast Walmart weekly sales by each department in every store.
-
 ## Key Objectives:
  
 - Analyze real historical Walmart sales data for 45 Walmart stores located in different regions
