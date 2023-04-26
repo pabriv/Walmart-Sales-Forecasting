@@ -18,7 +18,7 @@ Kaggle competition sponsored by Walmart.  Competition goal is to forecast Walmar
 
 - Real Walmart data from 45 Stores with 100 departments each was cleansed, analyzed and used to train regression, gradient boosting, time series and ensemble models in order to predict future values (4500 distinct forecasts)
 
-- Gradient Boosting (regression) models such as XGBoost, LightGBM had higher predictive performance than time series model.  XGBoost model at Kaggle performed better than NeuralProphet (Predictive RNN) model.
+- Gradient Boosting (regression) models such as XGBoost, LightGBM had higher predictive performance than time series model.  XGBoost model performed better in Kaggle than NeuralProphet (Predictive RNN) model.
 
 - Ensemble models tended to negatively impact score across several iterations
 
@@ -28,7 +28,7 @@ Kaggle competition sponsored by Walmart.  Competition goal is to forecast Walmar
 
 - Feature Engineering discussion
 
-- Kaggle score performance and leaderboard ranking
+- Ultimately the final model Kaggle public and private scores were 2969 and 3002.
 
 - The value of the model is that it performs higher than baseline models and can facilitate or inform strategic decision making related to supply and demand, personnel, and sales outlook
 
