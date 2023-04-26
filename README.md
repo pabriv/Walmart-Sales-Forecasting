@@ -10,10 +10,10 @@ Kaggle competition sponsored by Walmart - forecast Walmart weekly sales by each 
 ## Key Objectives:
  <B>
 - Analyze real historical Walmart sales data for 45 Walmart stores located in different regions
+
 - Forecast Walmart weekly sales for each department in each store
+
 - Competition evaluated on the weighted mean absolute error, where holiday weeks are weighted 5x higher than non-holiday weeks
----
- </B>
  
 ---
 
