@@ -8,7 +8,7 @@
 
 - Forecast Walmart weekly sales for each department in each store
 
-- Competition evaluated on the weighted mean absolute error (WMAE), where holiday weeks are weighted 5x higher than non-holiday weeks
+- Competition evaluated by weighted mean absolute error (WMAE), where holiday weeks are weighted 5x higher than non-holiday weeks
 
 
 ## Executive Summary
@@ -36,3 +36,13 @@
 - Potentially leverage model to inform annual strategic planning intitiatives or expansion planning - help predict sales at future new stores
 
 ---
+
+<a href="https://imgur.com/h7fDaCx"><img src="https://i.imgur.com/h7fDaCx.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/yVPTuWM"><img src="https://i.imgur.com/yVPTuWM.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/0f3Zx4F"><img src="https://i.imgur.com/0f3Zx4F.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/1wRYMFe"><img src="https://i.imgur.com/1wRYMFe.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/SW4Joq7"><img src="https://i.imgur.com/SW4Joq7.png" title="source: imgur.com" /></a>
